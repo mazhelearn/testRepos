@@ -1,0 +1,14 @@
+.container{
+    width: 100%;
+    height: 50px;
+    border: solid 1px gray;
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+::ng-deep .child2-green{
+    background-color: green;
+}

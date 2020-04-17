@@ -1,0 +1,9 @@
+:host span{
+    background-color: green;
+}
+p{
+    background-color: blue;
+}
+:host ::ng-deep div{
+    background-color: chartreuse;
+}
